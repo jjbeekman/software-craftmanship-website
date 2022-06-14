@@ -1,3 +1,3 @@
 ## Readme
 
-Website for _Software Craftsmanship_
+Website for _Software Craftmanship_
